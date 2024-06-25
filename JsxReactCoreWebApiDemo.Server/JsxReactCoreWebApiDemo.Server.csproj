@@ -50,9 +50,9 @@ This is the initial release of the Custom jSilvestri.com BETA v2024 Web API Demo
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\jsxreactcorewebapidemo.client\jsxreactcorewebapidemo.client.esproj">
-      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
-    </ProjectReference>
+    <ProjectReference Include="..\..\JsxClassLibrary\JsxClassLibrary.csproj" />
+    <ProjectReference Include="..\..\JsxSharedResources\JsxSharedResources.csproj" />
+    <ProjectReference Include="..\..\JsxWebApi\JsxWebApi.csproj" />
   </ItemGroup>
 
 </Project>
