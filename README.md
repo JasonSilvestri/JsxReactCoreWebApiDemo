@@ -1,21 +1,23 @@
-# Official JSX React Asp.NET Core Web API Demo Applicaton of the jSilvestri.com BETA v 2024 Web API Demo Collection
+# Official jSX React Asp.NET Core Web API Demo Project
+### jSilvestri.com BETA v 2025 Web API Demo Collection
 ### Phase 1
-The `JsxReactCoreWebApiDemo` application (i.e., _jSilvestri.com BETA v 2024 JSX React Asp.NET Core Web API Demo_) in specific, is a FREE, open-source, custom, reusable, jSilvestri.com 2024 Web API Demo Collections ASP.NET Core Project, which accesses the `JsxWebApi` Web API, demonstrating the usage of Web APIs, JWT authentication, client-side and server-side frameworks for user authentication, using Blazor Technologies. This project ensures consistency and simplifies the management of these resources.
+
+The `JsxReactCoreWebApiDemo` application (i.e., _jSilvestri.com BETA v 2025 JSX React Asp.NET Core Web API Demo_) in specific, is a FREE, open-source, custom, reusable, jSilvestri.com 2025 Web API Demo Collections ASP.NET Core Project, which accesses the `JsxWebApi` Web API, demonstrating the usage of Web APIs, JWT authentication, client-side and server-side frameworks for user authentication, using Blazor Technologies. This project ensures consistency and simplifies the management of these resources.
 
  **⚠ Important:** 
   This application is still In-Work and currently in Phase 1 of Development (e.g., _Basic MVP example_). Conversely, Phase 2 and beyond will have most (if not all) functionality fully integrated. Stay tuned!
 
 ## Overview
 
-The [jSilvestri.com BETA v 2024](https://www.jsilvestri.com/) mobile and web applications, developed for most smart phones, tablets and desktop computers, were created to showcase a wide range of skills to potential clients and employers, to support existing clients, while providing helpful information to fellow developers, demos for interview talks, access to resumes, etc.
+The [jSilvestri.com BETA v 2025](https://www.jsilvestri.com/) mobile and web applications, developed for most smart phones, tablets and desktop computers, were created to showcase a wide range of skills to potential clients and employers, to support existing clients, while providing helpful information to fellow developers, demos for interview talks, access to resumes, etc.
 
-The `JsxReactCoreWebApiDemo` application (i.e., _jSilvestri.com BETA v 2024 JSX React Asp.NET Core Web API Demo_) in specific, is a FREE, open-source, custom, reusable, jSilvestri.com 2024 Web API Demo Collections ASP.NET Core Project, which accesses the `JsxWebApi` Web API, demonstrating the usage of Web APIs, JWT authentication, client-side and server-side frameworks for user authentication, using Blazor Technologies. This project ensures consistency and simplifies the management of these resources.
+The `JsxReactCoreWebApiDemo` application (i.e., _jSilvestri.com BETA v 2025 JSX React Asp.NET Core Web API Demo_) in specific, is a FREE, open-source, custom, reusable, jSilvestri.com 2025 Web API Demo Collections ASP.NET Core Project, which accesses the `JsxWebApi` Web API, demonstrating the usage of Web APIs, JWT authentication, client-side and server-side frameworks for user authentication, using Blazor Technologies. This project ensures consistency and simplifies the management of these resources.
 
 ## VS Project & Solution Structure
 
 **The solution includes the following projects:**
 
-- **[Official jSilvestri 2024 Web API Demo Collection Project](https://github.com/JasonSilvestri/jSilvestri2024WebApiDemoCollection)**: The main `jSilvestri2024WebApiDemoCollection` solution. This soluton includes all projects described below, but doesn't have any major function outside having a place where all projects can be consumed at once. In fact, all projects below were also designed to have their own, independent repositories, which can be downloaded and/or run alone (respectfully).
+- **[Official jSilvestri 2025 Web API Demo Collection Project](https://github.com/JasonSilvestri/jSilvestri2025WebApiDemoCollection)**: The main `jSilvestri2025WebApiDemoCollection` solution. This soluton includes all projects described below, but doesn't have any major function outside having a place where all projects can be consumed at once. In fact, all projects below were also designed to have their own, independent repositories, which can be downloaded and/or run alone (respectfully).
 
 **The Shared Projects:**
 
@@ -46,7 +48,7 @@ The following Projects are different front-end technologies, such as Angular, Re
 
 - [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [Visual Studio or Visual Studio Code 2022 or higher](https://visualstudio.microsoft.com/)
-- [Visit jSilvestri.com BETA v 2024 Demos for More Details](https://jsilvestri.com/home/demo)
+- [Visit jSilvestri.com BETA v 2025 Demos for More Details](https://jsilvestri.com/home/demo)
   
 ### Corequisites
 
@@ -74,7 +76,7 @@ The following Projects are different front-end technologies, such as Angular, Re
 
     - Right-click on the solution in Solution Explorer and select `Build Solution`.
 
-## Using JsxSharedResources Project in jSilvestri.com BETA v 2024 Web API Demo Collection Projects
+## Using JsxSharedResources Project in jSilvestri.com BETA v 2025 Web API Demo Collection Projects
 
 ### Reference the Shared Resources Project
 
@@ -83,7 +85,7 @@ The following Projects are different front-end technologies, such as Angular, Re
     - Select **Add** > **Project Reference**.
     - Check `JsxSharedResources` and click **OK**.
 
-### Example: jSilvestri.com 2024 Blazor Server Asp.NET Core Web API Demo Project
+### Example: jSilvestri.com 2025 Blazor Server Asp.NET Core Web API Demo Project
 
 **In `JsxBlazorServerCoreWebApiDemo`**:
 
@@ -104,7 +106,7 @@ The following Projects are different front-end technologies, such as Angular, Re
     <link rel="stylesheet" href="@($"{env.WebRootPath}/CSS/style.css")">
     ```
 
-### Example: jSilvestri.com 2024 Angular Asp.NET Core Web API Demo Project
+### Example: jSilvestri.com 2025 Angular Asp.NET Core Web API Demo Project
 
 **In `JsxAngularCoreWebApiDemo`**:
 
@@ -129,7 +131,7 @@ The following Projects are different front-end technologies, such as Angular, Re
     <link rel="stylesheet" href="assets/CSS/style.css">
     ```
 
-### Example:  jSilvestri.com 2024 Vue Asp.NET Core Web API Demo Project
+### Example:  jSilvestri.com 2025 Vue Asp.NET Core Web API Demo Project
 
 **In `JsxVueCoreWebApiDemo`**:
 
@@ -158,7 +160,7 @@ The following Projects are different front-end technologies, such as Angular, Re
     </template>
     ```
 
-### Example: jSilvestri.com 2024 React Asp.NET Core Web API Demo Project
+### Example: jSilvestri.com 2025 React Asp.NET Core Web API Demo Project
 
 **In `JsxReactCoreWebApiDemo`**:
 
@@ -197,11 +199,11 @@ The following Projects are different front-end technologies, such as Angular, Re
 
 This area of the guide provides a basic overview of setting up the `JsxSharedResources` project to manage shared static resources and using these resources in various client projects (`JsxAngularCoreWebApiDemo`, `JsxReactCoreWebApiDemo`, `JsxVueCoreWebApiDemo`, and `JsxAngularCoreWebApiDemo`). Follow the instructions to ensure your projects can consistently and efficiently utilize shared resources.
 
-## Planned Evolution of jSilvestri.com BETA v2024 Web API Demo Collection Projects
+## Planned Evolution of jSilvestri.com BETA v2025 Web API Demo Collection Projects
 
 Depending on when you visit this demo application, it may look very different from your previous visit. I am not talking about common checkins to improve the applications. I am talking about noticable, planned, development that will shape each application in accordance to the grand design. In other words, the variability is intentional. 
 
-The purpose of this project, and its associated projects, is to showcase my basic skills in the technologies I am currently exploring in 2024 (e.g., technologies I consider still in Discovery). By leveraging my 20 years of experience in full stack .NET development and solution architecting, I also aim to address areas often overlooked in typical online examples, such as security, object-oriented coding, and the transformation of existing assets, templates, and projects into custom creative designs that support specific objectives.
+The purpose of this project, and its associated projects, is to showcase my basic skills in the technologies I am currently exploring in 2025 (e.g., technologies I consider still in Discovery). By leveraging my 20 years of experience in full stack .NET development and solution architecting, I also aim to address areas often overlooked in typical online examples, such as security, object-oriented coding, and the transformation of existing assets, templates, and projects into custom creative designs that support specific objectives.
 
 The target technologies and project structures include **AngularJS**, **Vue**, **ReactJS**, and **Blazor**, all of which access the same Web API project using ASP.NET Core 8 and Visual Studio 2022 or Visual Studio Code (or higher).
 
@@ -212,7 +214,7 @@ There are typically two primary ways to handle source control for multiple proje
 1. **Monorepo**: Storing all projects within a single GitHub repository. This approach simplifies managing dependencies and integrations between projects and ensures consistency across the solution.
 2. **Multi-repo**: Creating separate GitHub repositories for each project. This approach provides greater modularity and allows each project to evolve independently, which can be beneficial if projects have different development cycles or teams.
 
-We will use a **combination of both** approaches. This hybrid method allows potential clients, employers, and fellow developers to download and run the applications they are most interested in as standalone projects (i.e., _AngularJS_, _Vue_, _ReactJS_, or _Blazor_), all accessing the same Web API project using ASP.NET Core 8 and Visual Studio 2022 (_or higher_), each with their own project and solution. Additionally, this approach ensures we can also create a project and solution that includes all applications, facilitating easy transitions between tiers for various needs (i.e., the _jSilvestri.com BETA v 2024 Web API Demo Collection Project_).
+We will use a **combination of both** approaches. This hybrid method allows potential clients, employers, and fellow developers to download and run the applications they are most interested in as standalone projects (i.e., _AngularJS_, _Vue_, _ReactJS_, or _Blazor_), all accessing the same Web API project using ASP.NET Core 8 and Visual Studio 2022 (_or higher_), each with their own project and solution. Additionally, this approach ensures we can also create a project and solution that includes all applications, facilitating easy transitions between tiers for various needs (i.e., the _jSilvestri.com BETA v 2025 Web API Demo Collection Project_).
 
 
 ### Project Development Steps - Phase 1 (Current Phase):
@@ -247,8 +249,8 @@ While this workflow may change, the steps I am taking to conclude all aspects of
 
 While this workflow may change, the steps I am taking to conclude all aspects of the project development are as follows:
 
-1. **Add All Frontend Projects, Assets Projects & Web API to jSilvestri.com BETA v2024 Web API Demo Collection Solutions**:
-   - Clone all projects and add them to the jSilvestri.com BETA v2024 Web API Demo Collection project for full access and testing of all projects in one, unified, location.
+1. **Add All Frontend Projects, Assets Projects & Web API to jSilvestri.com BETA v2025 Web API Demo Collection Solutions**:
+   - Clone all projects and add them to the jSilvestri.com BETA v2025 Web API Demo Collection project for full access and testing of all projects in one, unified, location.
 
 2. **Update Class Library**: Update ASP.NET Core Class Library project and solution parts we want to use across all applications, such as Constants, Enums, Helpers, etc.
    
@@ -357,4 +359,4 @@ While this workflow may change, the steps I am taking to conclude all aspects of
 
 
 
-**Copyright © 2024 - All Rights Reserved by Jason Silvestri**
+**Copyright © 2025 - All Rights Reserved by Jason Silvestri**
